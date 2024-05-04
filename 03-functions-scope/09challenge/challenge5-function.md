@@ -49,7 +49,7 @@ Create an arrow function called `minMax()` that takes in an array of numbers and
 ```JavaScript
 console.log(minMax([1, 2, 3, 4, 5]));
 // { min: 1, max: 5 }
-````
+```
 
 **Hints:**
 
@@ -58,14 +58,13 @@ console.log(minMax([1, 2, 3, 4, 5]));
 
 <details>
   <summary>Click For Solution</summary>
-  
+
 ```JavaScript
 //Solution
 
 ````
 
 </details>
-
 
 ## Challenge 3
 
@@ -76,7 +75,7 @@ Create an IIFE (Immediately Invoked Function Expression) that takes in the lengt
 ```JavaScript
 // On page load
 The area of a rectangle with a length of 10 and a width of 5 is 50.
-````
+```
 
 **Hints:**
 
