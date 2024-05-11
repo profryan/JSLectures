@@ -49,7 +49,7 @@ Create an arrow function called `minMax()` that takes in an array of numbers and
 ```JavaScript
 console.log(minMax([1, 2, 3, 4, 5]));
 // { min: 1, max: 5 }
-```
+
 
 **Hints:**
 
